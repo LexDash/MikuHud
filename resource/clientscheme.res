@@ -1210,7 +1210,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"NimbusSan-Reg16"
+				"name"		"Vocaloid16"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -3032,65 +3032,65 @@ Scheme
 			}
 		}
 		
-		"NimbusSan-Reg12"
+		"Vocaloid12"
 		{
 			"1"
 			{
-				"name"		"NimbusSan-Reg"
+				"name"		"Vocaloid"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
-		"NimbusSan-Reg16"
+		"Vocaloid16"
 		{
 			"1"
 			{
-				"name"		"NimbusSan-Reg"
+				"name"		"Vocaloid"
 				"tall"		"16"
 				"antialias" "1"
 			}
 		}
-		"NimbusSan-Reg24"
+		"Vocaloid24"
 		{
 			"1"
 			{
-				"name"		"NimbusSan-Reg"
+				"name"		"Vocaloid"
 				"tall"		"24"
 				"antialias" "1"
 			}
 		}
-		"NimbusSan-Reg32"
+		"Vocaloid32"
 		{
 			"1"
 			{
-				"name"		"NimbusSan-Reg"
+				"name"		"Vocaloid"
 				"tall"		"32"
 				"antialias" "1"
 			}
 		}
-		"NimbusSan-Reg36"
+		"Vocaloid36"
 		{
 			"1"
 			{
-				"name"		"NimbusSan-Reg"
+				"name"		"Vocaloid"
 				"tall"		"36"
 				"antialias" "1"
 			}
 		}
-		"NimbusSan-Reg42"
+		"Vocaloid42"
 		{
 			"1"
 			{
-				"name"		"NimbusSan-Reg"
+				"name"		"Vocaloid"
 				"tall"		"42"
 				"antialias" "1"
 			}
 		}
-		"NimbusSan-Reg48"
+		"Vocaloid48"
 		{
 			"1"
 			{
-				"name"		"NimbusSan-Reg"
+				"name"		"Vocaloid"
 				"tall"		"48"
 				"antialias" "1"
 			}
@@ -5935,5 +5935,16 @@ Scheme
 			"font" "resource/fonts/nimbus-sans-black.otf"
 			"name" "NimbusSan-Bla"
 		}
+		"21"
+		{
+			"font" "resource/fonts/VOC-RE.TTF"
+			"name" "Vocaloid"
+		}
+		"22"
+		{
+			"font" "resource/fonts/VOC-IT.TTF"
+			"name" "Vocaloid Italic"
+		}
 	}
+	
 }
